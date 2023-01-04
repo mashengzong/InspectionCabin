@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectionCabin", "InspectionCabin.csproj", "{E7070191-EFCF-405E-AF4D-468509789D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectionCabinDebug", "..\InspectionCabinDebug\InspectionCabinDebug.csproj", "{B33F5EA2-1717-4DA6-A65C-4D302DC9D224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7070191-EFCF-405E-AF4D-468509789D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7070191-EFCF-405E-AF4D-468509789D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7070191-EFCF-405E-AF4D-468509789D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7070191-EFCF-405E-AF4D-468509789D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33F5EA2-1717-4DA6-A65C-4D302DC9D224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33F5EA2-1717-4DA6-A65C-4D302DC9D224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33F5EA2-1717-4DA6-A65C-4D302DC9D224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33F5EA2-1717-4DA6-A65C-4D302DC9D224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8144AD1C-4269-4309-BC72-E2D7F0EC8E1E}
+	EndGlobalSection
+EndGlobal
